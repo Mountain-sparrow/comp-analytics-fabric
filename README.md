@@ -29,6 +29,7 @@ See `docs/data_dictionary.md` for every column.
 
 ## Progress log
 
-| Week | What I built |
-|---|---|
-| 0 | Repo + dataset |
+| Week | Status | What I built |
+|---|---|---|
+| 0 | Completed | Repo + dataset |
+| 1 | Completed | Cleaned all 7 tables in Power Query, first report |
