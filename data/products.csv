@@ -1,0 +1,9 @@
+ProductID,ProductName,Category,ListPrice_USD
+P001,Core Platform License,Software,12000
+P002,Analytics Add-on,Software,4500
+P003,AI Forecasting Module,Software,8000
+P004,Premium Support,Services,3000
+P005,Implementation Package,Services,15000
+P006,Training Bundle,Services,1800
+P007,Data Connector Pack,Software,2500
+P008,Enterprise Suite,Software,40000

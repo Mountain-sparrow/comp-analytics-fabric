@@ -1,0 +1,10 @@
+TerritoryID,TerritoryName,Region,Country
+T01,US Northeast,North America,United States
+T02,US Southeast,North America,United States
+T03,US Central,North America,United States
+T04,US West,North America,United States
+T05,Brazil South,LATAM,Brazil
+T06,Brazil North,LATAM,Brazil
+T07,Mexico,LATAM,Mexico
+T08,Andean,LATAM,Colombia
+T09,Southern Cone,LATAM,Argentina

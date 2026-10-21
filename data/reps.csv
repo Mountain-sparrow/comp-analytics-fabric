@@ -1,0 +1,24 @@
+RepID,RepName,Email,Role,ManagerID,HireDate,TerminationDate,Region
+R100,Liam Rodriguez,liam.rodriguez@fakecorp.example,Sales Manager,,2021-03-01,,North America
+R200,Ethan Ramirez,ethan.ramirez@fakecorp.example,Sales Manager,,2021-03-01,,LATAM North
+R300,Mateo Davis,mateo.davis@fakecorp.example,Sales Manager,,2021-03-01,,LATAM South
+R101,Carlos Lopez  ,carlos.lopez@fakecorp.example,Senior Account Executive,R100,2022-11-01,,North America
+R102,Santiago Wilson,santiago.wilson@fakecorp.example,Account Executive,R100,2021-12-01,,North America
+R103,Emily Smith,emily.smith@fakecorp.example,Senior Account Executive,R100,2025-06-01,,North America
+R104,Diego Oliveira,diego.oliveira@fakecorp.example,Account Executive,R100,2020-07-01,,North America
+R105,Grace Gomez,grace.gomez@fakecorp.example,Senior Account Executive,R100,2022-03-01,,North America
+R106,Isabela Silva,isabela.silva@fakecorp.example,Account Executive,R100,2022-12-01,,North America
+R107,AVA RODRIGUEZ,ava.rodriguez@fakecorp.example,Senior Account Executive,R100,2020-10-01,,North America
+R108,Camila Santos,camila.santos@fakecorp.example,Senior Account Executive,R100,2021-03-01,,North America
+R109,Mia Moore,mia.moore@fakecorp.example,Account Executive,R200,2021-11-01,,LATAM North
+R110,Lucas Lopez,lucas.lopez@fakecorp.example,Account Executive,R200,2021-01-01,2026-04-30,LATAM North
+R111,Noah Wilson,noah.wilson@fakecorp.example,Account Executive,R200,2022-02-01,,LATAM North
+R112,Daniel Smith,daniel.smith@fakecorp.example,Senior Account Executive,R200,2022-04-01,,LATAM North
+R113, valentina oliveira,valentina.oliveira@fakecorp.example,Account Executive,R200,2023-03-01,,LATAM North
+R114,Maria Gomez,maria.gomez@fakecorp.example,Account Executive,R200,2022-12-01,,LATAM North
+R115,Gabriela Silva,gabriela.silva@fakecorp.example,Senior Account Executive,R300,2023-06-01,,LATAM South
+R116,Laura Rodriguez,laura.rodriguez@fakecorp.example,Account Executive,R300,2023-02-01,,LATAM South
+R117,Sofia Santos,sofia.santos@fakecorp.example,Account Executive,R300,2021-11-01,,LATAM South
+R118,Felipe Moore,felipe.moore@fakecorp.example,Senior Account Executive,R300,2023-10-01,,LATAM South
+R119,Rafael Lopez,rafael.lopez@fakecorp.example,Account Executive,R300,2023-09-01,,LATAM South
+R120,Olivia Wilson,olivia.wilson@fakecorp.example,Senior Account Executive,R300,2020-11-01,,LATAM South
