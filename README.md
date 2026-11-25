@@ -27,6 +27,19 @@ See `docs/data_dictionary.md` for every column.
 - Commission is paid in the month of the **PaymentDate**, not the CloseDate.
 - Managers (Role = Sales Manager) carry no quota in this dataset.
 
+## Model design
+
+| Table | Type | Primary key | Grain (one row per...) |
+|---|---|---|---|
+| Fact_Deals | Fact | DealID | deal |
+| Fact_Quota | Fact | RepID + MonthStart | rep per month |
+| Dim_Rep | Dimension | RepID | rep |
+| Dim_Product | Dimension | ProductID | product |
+| Dim_Territory | Dimension | TerritoryID | territory |
+| Plan_Rates | Lookup | Role + AttainmentFrom | role per tier |
+| rep_territory_history | Helper | RepID + StartDate | rep per territory assignment period |
+
+
 ## Progress log
 
 | Week | Status | What I built |
